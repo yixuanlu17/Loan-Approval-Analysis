@@ -52,8 +52,8 @@ Linear Discriminant Analysis:
 0.972143 (0.006298)
 ```
 ```
-Gaussian NB: 0.899464 
-(0.028949)
+Gaussian NB:
+0.899464 (0.028949)
 ```
 ### Fit the Best Model
 * Logistic Regression (Using Sample)
