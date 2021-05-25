@@ -22,7 +22,7 @@ import seaborn as sns
 import warnings
 ```
 ## Results
-### Fit Models
+### Fit Models (using samples)
 ```
 Logistic Regression: 
 0.989107 (0.003430)
@@ -40,23 +40,23 @@ Extra Trees Classifier:
 0.985179 (0.003997)
 ```
 ```
-Decision Tree Classifier: 0.964107 
-(0.007595)
+Decision Tree Classifier: 
+0.964107 (0.007595)
 ```
 ```
-SVC: 0.977500 
-(0.003763)
+SVC: 
+0.977500 (0.003763)
 ```
 ```
-Linear Discriminant Analysis: 0.972143 
-(0.006298)
+Linear Discriminant Analysis: 
+0.972143 (0.006298)
 ```
 ```
 Gaussian NB: 0.899464 
 (0.028949)
 ```
 ### Fit the Best Model
-* Logistic Regression (Dataset Sample)
+* Logistic Regression (Using Sample)
 ```
 Model.score(X_test, Y_test.ravel())
 0.9929
