@@ -6,6 +6,12 @@ Based on the data provided by Kaggle, I have taken on a challenge to analyze and
 This dataset is from Kaggle with 2 files,  in the following https://tinyurl.com/wnrcn9x. This project is mainly focused on the one with accepted loans. And the target variable is loan_status. The accepted loan data has 2,260,701 rows. This is a dataset from 2007 to 2018 for LendingClub data, with US based financial information ranging from loan length to applicant credit score. 
 
 ## Skills used
+Exploratory Data Analysis 
+Permutation testing
+Polynomial features
+Data Modeling
+Hyperparameter Tuning
+Machine Learning Model Pipelines
 
 
 ## Requirements 
